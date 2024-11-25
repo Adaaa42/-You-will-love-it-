@@ -15,7 +15,8 @@ _A repository for literary exploration and thoughtful discussions._
 2. *The Master and Margarita* by Mikhail Bulgakov  
 3. *Brave New World* by Aldous Huxley  
 4. *Flowers for Algernon* by Daniel Keyes  
-5. *The Hitchhiker’s Guide to the Galaxy* by Douglas Adams  
+5. *The Hitchhiker’s Guide to the Galaxy* by Douglas Adams
+6. *AI ethics* 
 
 ---
 

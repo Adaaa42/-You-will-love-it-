@@ -17,6 +17,7 @@ _A repository for literary exploration and thoughtful discussions._
 4. *Flowers for Algernon* by Daniel Keyes  
 5. *The Hitchhiker’s Guide to the Galaxy* by Douglas Adams
 6. *AI ethics* 
+7. "A new earth" by Eckhart Tolle
 
 ---
 
